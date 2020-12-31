@@ -1,0 +1,3 @@
+class Fecha;
+void FechaActual;
+ 
