@@ -1,3 +1,0 @@
-class Fecha;
-void FechaActual;
- 
